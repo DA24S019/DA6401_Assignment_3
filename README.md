@@ -8,8 +8,8 @@ Folder name : VAttention_RNN contains files related to rnn with attention implem
 Following are the description of Vanilla_RNN folder: 
 (Link : https://github.com/DA24S019/DA6401_Assignment_3/tree/main/Vanilla_RNN)
 
-1 downloading_dataset.py  : This file download the dataset required for this assignment.
-2. dataset.py : It contains codes for datapreprocessing
+1 downloading_dataset.py  : This file download the dataset required for this assignment.//
+2. dataset.py : It contains codes for datapreprocessing//
 3. config.py : It contains configuration of the model
 4. loader.py : it loads the data file for training and validation.
 5. model.py : It contains the model artitechture. (Encoder, Decoder and Seq2Seq)
