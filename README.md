@@ -80,6 +80,11 @@ cd Vanilla_RNN
 
 python downloading_dataset.py
 
+# For dataset download : 
+
+cd Attention_RNN
+
+python downloading_dataset.py
 
 # For sweeping The Vanilla RNN
 
