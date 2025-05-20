@@ -75,25 +75,37 @@ Implements an RNN encoder-decoder model **with Bahdanau Attention**.
 
 ---
 # For dataset download : 
+
 cd Vanilla_RNN
+
 python downloading_dataset.py
 
 
 # For sweeping The Vanilla RNN
+
 cd Vanilla_RNN
+
 python sweep.py
 
 # For sweeping The Attention RNN
+
 cd Attention_RNN
+
 python sweep.py
 
 # For vanilla model
+
 cd Vanilla_RNN
+
 python pred.py
 
 # For attention model
+
 cd Attention_RNN
+
 python pred.py
+
 python attention_heatmaps.py
+
 python app.py  # if running the interactive visualization
 
